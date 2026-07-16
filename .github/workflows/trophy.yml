@@ -1,8 +1,8 @@
 name: Generate trophy card
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule: # execute every day at midnight UTC
+    - cron: "0 0 * * *"
 
   workflow_dispatch:
 
