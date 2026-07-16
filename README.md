@@ -60,6 +60,15 @@
 
 ###
 
+<h3 align="center">📊 GitHub Statistics</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nuzaimbirri&show_icons=true&theme=dracula&hide_border=false" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuzaimbirri&layout=compact&theme=dracula&hide_border=false" height="165" alt="Top Languages" />
+</div>
+
+<br>
+
 <div data-importer="stats" align="center">
   <img src="https://streak-stats.demolab.com?user=nuzaimbirri&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/nuzaimbirri/nuzaimbirri/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
