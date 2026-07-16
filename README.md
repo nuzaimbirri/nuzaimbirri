@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img/animasi.gif" width="70%" alt="Header Animasi" />
+  <img src="img/animasi.gif" width="60%" alt="Header Animasi" />
 </p>
 
 <a href="https://github.com/nuzaimbirri">
